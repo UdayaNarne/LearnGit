@@ -1,1 +1,2 @@
-Trying something in master seeing whether these files can be seen in another branch or not when pull is doesnot
+Trying something in master seeing whether these files can be seen in another branch or not when pull is doesn
+Making changes in master branch to see whether these changes can be seen in another branch or not
