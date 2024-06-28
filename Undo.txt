@@ -1,2 +1,3 @@
 USING soft reset commit will be undo but any changes are not reflected in the working file
 Hard completely removes the commit whereas soft doesnot remove the commit
+Trying something different to understand something new.
